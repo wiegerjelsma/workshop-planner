@@ -1,4 +1,4 @@
-# A PHP planner
+# A PHP workshop planner
 
 We have workshops and attendees but limited conference rooms and time slots.
 
